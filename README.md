@@ -8,7 +8,7 @@ This is a simple web project created using HTML, CSS, and JavaScript.
 
 ## Installation
 
-No installation required. Simply open `home.html` in a web browser.
+Simply run `home.html` in your folder.
 
 ## Usage
 
