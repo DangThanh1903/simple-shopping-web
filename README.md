@@ -8,11 +8,11 @@ This is a simple web project created using HTML, CSS, and JavaScript.
 
 ## Installation
 
-No installation required. Simply open `index.html` in a web browser.
+No installation required. Simply open `home.html` in a web browser.
 
 ## Usage
 
-Open `index.html` in your preferred web browser to view the project.
+Open `home.html` in your preferred web browser to view the project.
 
 ## Project Members
 
